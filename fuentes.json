@@ -1,0 +1,21 @@
+{
+    "columnas": {
+        "Articulos": {
+            "font": {"family": "Arial", "size": 10, "weight": "bold"},
+            "background": "#f0f0f0",
+            "foreground": "black",
+            "width": 150
+        },
+        "Almacen": {
+            "font": {"family": "Arial", "size": 10, "weight": "normal"},
+            "background": "#e0e0e0",
+            "foreground": "blue",
+            "width": 120
+        },
+        "Cantidad": {
+            "font": {"family": "Courier", "size": 12, "weight": "bold"},
+            "background": "#ffffff",
+            "foreground": "green",
+            "width": 100
+        }
+    }
